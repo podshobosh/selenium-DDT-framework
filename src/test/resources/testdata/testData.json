@@ -1,0 +1,50 @@
+{
+  "loginCredentials": {
+    "email": "admin",
+    "password": "password123"
+  },
+  "testCases": [
+    {
+      "testId": "TC001",
+      "project": "Web Application",
+      "task": "Implement user authentication",
+      "column": "To Do",
+      "tags": ["Feature", "High Priority"]
+    },
+    {
+      "testId": "TC002",
+      "project": "Web Application",
+      "task": "Fix navigation bug",
+      "column": "To Do",
+      "tags": ["Bug"]
+    },
+    {
+      "testId": "TC003",
+      "project": "Web Application",
+      "task": "Design system updates",
+      "column": "In Progress",
+      "tags": ["Design"]
+    },
+    {
+      "testId": "TC004",
+      "project": "Mobile Application",
+      "task": "Push notification system",
+      "column": "To Do",
+      "tags": ["Feature"]
+    },
+    {
+      "testId": "TC005",
+      "project": "Mobile Application",
+      "task": "Offline mode",
+      "column": "In Progress",
+      "tags": ["Feature", "High Priority"]
+    },
+    {
+      "testId": "TC006",
+      "project": "Mobile Application",
+      "task": "App icon design",
+      "column": "Done",
+      "tags": ["Design"]
+    }
+  ]
+}
